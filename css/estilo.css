@@ -1,0 +1,41 @@
+html{
+
+	height: 100%;
+
+}
+
+body {
+
+	text-align:left;
+
+	background: #fff;
+
+	font-family: Verdana, Tahoma, Arial;
+
+	margin:0;
+
+	padding:0;
+
+	height:100%;
+
+}
+
+* {
+
+	list-style:none; 
+
+	padding:0px;
+
+	margin:0px;
+
+}
+
+#all{
+
+	height:100%;
+
+	width:100%;
+
+	margin:auto;
+
+}
